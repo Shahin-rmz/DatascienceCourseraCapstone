@@ -10,11 +10,7 @@ Following sources of data are used while executing the Capstone Project: -
 
 |Data title|Type of data|Duration|Description|Source|
 |----------|-------------|-------|-----------|-------|
-|Open Data published by Government of UK under the section HM Land Registry: Price Paid Data|CSV file|August 2018 data|Price Paid Data includes information on all property sales in England and Wales that are sold for full market value and are lodged with us for registration.
-
-The dataset includes the transactions received at HM Land Registry in the period from the first to the last day of August 2018.
-
-This dataset was downloaded and later hosted on https://labs.cognitiveclass.ai/ for ease of use.|http://landregistry.data.gov.uk/|
+|Open Data published by Government of UK under the section HM Land Registry: Price Paid Data|CSV file|August 2018 data|Price Paid Data includes information on all property sales in England and Wales that are sold for full market value and are lodged with us for registration.The dataset includes the transactions received at HM Land Registry in the period from the first to the last day of August 2018.This dataset was downloaded and later hosted on https://labs.cognitiveclass.ai/ for ease of use.|http://landregistry.data.gov.uk/ |
 
 
     • Data title: - 
