@@ -1,4 +1,4 @@
-###Coursera Capstone###
+##Coursera Capstone##
 
 Capstone Project - The Battle of Neighborhoods
 
