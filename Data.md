@@ -14,8 +14,7 @@ Following sources of data are used while executing the Capstone Project: -
 
 The dataset includes the transactions received at HM Land Registry in the period from the first to the last day of August 2018.
 
-This dataset was downloaded and later hosted on https://labs.cognitiveclass.ai/ for ease of use.|
-http://landregistry.data.gov.uk/|
+This dataset was downloaded and later hosted on https://labs.cognitiveclass.ai/ for ease of use.|http://landregistry.data.gov.uk/|
 
 
     • Data title: - 
