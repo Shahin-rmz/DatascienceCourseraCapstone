@@ -1,4 +1,4 @@
-##Coursera Capstone##
+# Coursera Capstone
 
 Capstone Project - The Battle of Neighborhoods
 
@@ -12,11 +12,11 @@ Further, he/ she would like to consider several factors like proximity to school
 
 With government provided authentic data on London properties coupled with data science techniques, one can make derive the useful information about current pricing in different localities of London while considering other factors of his choice. This would help the potential client to make an informed decision about buying a suitable property. 
 
-Target audience: -
-Potential clients looks to buy suitable property in London but are skeptical due to lack of knowledge and volatile market conditions.
+Target audience:
+ Potential clients looks to buy suitable property in London but are skeptical due to lack of knowledge and volatile market conditions.
 
-Stakeholders: -
-    1. Government of UK
-    2. Sellers of property
-    3. Buyers of property
-    4. Real estate agents
+Stakeholders: 
+- Government of UK
+- Sellers of property
+- Buyers of property
+- Real estate agents
